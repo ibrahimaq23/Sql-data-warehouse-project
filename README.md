@@ -72,9 +72,7 @@ Create SQL-based insights to explore:
 * **Product Performance**
 * **Sales Trends**
 
-These insights help stakeholders make informed strategic decisions.
 
-> 📄 For full details, see `docs/requirements.md`.
 
 ---
 
